@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vue.js**, **Flutter**
 
-- 📫 How to reach me **nimandev@gmail.com**
+- 📫 How to reach me **muminin71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
